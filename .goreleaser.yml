@@ -18,10 +18,10 @@ builds:
         goarch: 386 # Skip old macOS.
 brews:
   - github:
-      owner: TODO_GITHUB_USERNAME
+      owner: omarsagoo
       name: homebrew-hellohomebrew
     folder: Formula
-    homepage: https://github.com/TODO_GITHUB_USERNAME/homebrew-hellohomebrew
+    homepage: https://github.com/omarsagoo/homebrew-hellohomebrew
     description: BEW 2.5 - Homebrew Hello World
 archives:
   - format: tar.gz
